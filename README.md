@@ -1,5 +1,7 @@
 # CapCut-Free
 
+<img src="https://github.com/DaxNorris/CapCut-Free/blob/main/CC.png"/>
+
 ____
 
 **CapCut is a free, all-in-one video editing tool. It's packed with everything necessary to create high-quality, visually appealing videos and graphics: free advanced features such as keyframe animation, smooth slow-motion, chroma key, and stabilization, to help you capture and snip moments.**
